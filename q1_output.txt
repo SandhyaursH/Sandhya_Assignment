@@ -1,0 +1,14 @@
+[36m==============================================
+||     SYSTEM INFORMATION DISPLAY          ||
+==============================================
+|| Username     : kali                   ||
+|| Hostname     : kali                   ||
+|| Date & Time  : 2026-02-24 10:59:23    ||
+|| OS           : Linux                  ||
+|| Current Dir  : /home/kali/Sandhya_Assignment ||
+|| Home Dir     : /home/kali             ||
+|| Users Online : 1                      ||
+|| Uptime       : up 15 minutes          ||
+|| Disk Usage   : 29%                    ||
+|| Memory Usage : 763Mi/1.9Gi            ||
+==============================================[0m
